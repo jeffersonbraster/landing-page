@@ -42,7 +42,7 @@ const Index = ({
     <SectionReviews {...sectionReviews} />
     <SectionFaq {...sectionFaq} />
     <Footer />
-    {/* <JsonSchema /> */}
+    <JsonSchema />
   </>
 )
 
